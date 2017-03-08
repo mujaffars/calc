@@ -1,10 +1,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.mujaffars.calllog"
+        id        = "com.mujaffars.calculate"
         version   = "1.1.0">
-    <name>Shiv Traders</name>
+    <name>Calc</name>
     
-    <description>Call log</description>
+    <description>Calc</description>
     <content src="index.html" />
     <access origin="*" />
 
